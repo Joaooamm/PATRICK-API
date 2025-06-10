@@ -4,6 +4,7 @@ CURADORIA DE MEME
 EXTRUTURA:
 
 PATRICK API/
+
 ├── assets/css/style.css           
 ├── config/database.php              
 ├── controllers/MemeController.php  
