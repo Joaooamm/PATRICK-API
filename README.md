@@ -7,19 +7,32 @@ PATRICK API/
 ├── assets/css/style.css           
 ├── config/database.php              
 ├── controllers/MemeController.php  
-├── dao/                             
+├── dao/    
+
 │   ├── BaseDAO.php
+
 │   ├── MemeDAO.php
+
 │   ├── TagDAO.php
+
 │   └── VotoDAO.php
-├── models/                          
+
+├── models/  
+
 │   ├── Meme.php
+
 │   ├── Tag.php
+
 │   └── Voto.php
-├── services/                        
+
+├── services/     
+
 │   ├── MemeService.php
+
 │   ├── TagService.php
+
 │   └── VotoService.php
+
 ├── database.sql                     
 ├── check_database.php              
 ├── create_database.php            
